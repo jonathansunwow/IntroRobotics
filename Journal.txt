@@ -1,0 +1,2 @@
+23th Aug
+Today in Introductions in Robotics, we have learned how to use GIT command on our computer’s terminal. Today’s class was about VCS and basic commands on GIT.
